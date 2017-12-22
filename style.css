@@ -1,0 +1,8 @@
+.jumbotron {
+	color: white;
+	background-image:url("images/crowd.png");
+	
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
